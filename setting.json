@@ -1,8 +1,8 @@
 {
-  "name-web":"AnoKw",
-  "author":"AnoKw",
+  "name-web":"STACKOVERFLOW MASKODING",
+  "author":"MASKODING",
   "remove-comment-html":true,
-  "target":"https://anoboy.media/",
+  "target":"https://www.chittorgarh.com/",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -16,9 +16,6 @@
     ".js-dismissable-hero",
     ".js-sidebar-zone",
     "#teams-promo",
-    "#popup_box",
-    "popup_box",
-    ".popup_box",
     ".quickedit"
   ],
   "costom-element-remove":[
